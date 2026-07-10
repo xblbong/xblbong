@@ -33,7 +33,7 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
 <!-- SKILLS SECTION (UX: Comprehensive & Categorized) -->
 ### 🛠️ Languages & Tools
 
-<table width="100%" border="0">
+<table width="100%" border="1">
   <tr>
     <td width="33.3%" align="center" valign="top">
       <h4>🎨 Frontend & UI</h4>
