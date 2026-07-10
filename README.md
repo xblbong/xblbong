@@ -23,7 +23,7 @@ I bridge the gap between aesthetic design and scalable frontend architecture.
 
 ### 📊 My Activity Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=xblbong&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=xblbong&theme=dracula" height="150" />
 </p>
 
 <div align="center">
