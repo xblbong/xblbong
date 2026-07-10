@@ -33,7 +33,7 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
 <!-- SKILLS SECTION (UX: Comprehensive & Categorized) -->
 ### 🛠️ Languages & Tools
 
-<table width="100%" border="1">
+<table width="100%" border="0">
   <tr>
     <td width="33.3%" align="center" valign="top">
       <h4>🎨 Frontend & UI</h4>
@@ -51,6 +51,31 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
       <img src="https://skillicons.dev/icons?i=dart,flutter,figma,git" /><br/>
       <img src="https://skillicons.dev/icons?i=vscode,postman,tanstack,antd" /><br/>
       <img src="https://skillicons.dev/icons?i=storybook" />
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Languages & Tools
+
+<table align="center" border="0">
+  <tr width="33.3%">
+    <td align="center"><b>Frontend & UI</b></td>
+    <td align="center"><b>Backend & Database</b></td>
+    <td align="center"><b>Mobile & Tools</b></td>
+  </tr>
+  <tr>
+    <td width="33.3%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" /><br/>
+      <img src="https://skillicons.dev/icons?i=tanstack,antd,storybook" /><br/>
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+    </td>
+    <td width="33.3%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,prisma,elysia" /><br/>
+      <img src="https://skillicons.dev/icons?i=aws,vercel" />
+    </td>
+    <td width="33.3%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=dart,flutter" /><br/>
+      <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman" />
     </td>
   </tr>
 </table>
