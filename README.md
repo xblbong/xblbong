@@ -4,17 +4,17 @@
 <h1>Hi! I'm Abil 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Google+Student+Ambassador;Frontend+Web+Developer;UI/UX+Designer;AWS+AI+Academy+Awardee" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Google+Student+Ambassador;Frontend+Web+Developer;UI/UX+Designer;AWS+AI+Academy+Awardee" />
 </p>
 
 <p align="center">
   <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAC/tenor.gif" alt="Kobayashi" width="380px" style="border-radius: 15px;" />
 </p>
 
-<!-- SOCIAL LINKS (UX: Mudah di klik & eye-catching) -->
+<!-- SOCIAL LINKS (UX: Clean Purple Theme) -->
 <p align="center">
-  <a href="https://linkedin.com/in/sabilah-mudrikah" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://abil-portofolio-six.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sabilah-mudrikah" target="blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://abil-portofolio-six.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://instagram.com/sabilahmdrk" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:sblhh.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -25,44 +25,50 @@
 ### 💫 About Me
 <p align="center">
 Innovative and detail-oriented <b>Information Technology</b> student at <b>Brawijaya University</b>.<br> 
-I bridge the gap between <b>aesthetic design</b> and <b>scalable frontend architecture</b>.
+I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></span> and <span style="color: #A855F7;"><b>scalable frontend architecture</b></span>.
 </p>
 
 ---
 
-<!-- SKILLS SECTION (UX: Dikelompokkan agar rapi & tidak pusing) -->
+<!-- SKILLS SECTION (UX: Comprehensive & Categorized) -->
 ### 🛠️ Languages & Tools
 
 <table align="center" border="0">
   <tr>
-    <td align="center"><b>Frontend & Languages</b></td>
-    <td align="center"><b>Backend & Cloud</b></td>
-    <td align="center"><b>Design & Softwares</b></td>
+    <td align="center"><b>Frontend & UI</b></td>
+    <td align="center"><b>Backend & Database</b></td>
+    <td align="center"><b>Mobile & Tools</b></td>
   </tr>
   <tr>
-    <td valign="top">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+    <td valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" /><br/>
+      <img src="https://skillicons.dev/icons?i=tanstack,antd,storybook" /><br/>
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
     </td>
-    <td valign="top">
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,aws,vercel" />
+    <td valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,prisma,elysia" /><br/>
+      <img src="https://skillicons.dev/icons?i=aws,vercel" />
     </td>
-    <td valign="top">
-      <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman,notion" />
+    <td valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=dart,flutter" /><br/>
+      <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- STATS SECTION -->
-### 📊 Activity & Performance
+<!-- STATS SECTION (UX: Purple Theme Transformation) -->
+### 🔮 Activity & Performance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xblbong/xblbong/trophy-output/trophy.svg" width="100%" alt="Trophies" />
+  <!-- Trophy dengan tema Tokyonight (Purple Tint) -->
+  <img src="https://raw.githubusercontent.com/xblbong/xblbong/trophy-output/trophy.svg?theme=tokyonight&column=7&margin-w=15&no-bg=true" width="100%" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xblbong&theme=dracula" height="150" />
+  <!-- Streak Stats Custom Purple Theme -->
+  <img src="https://streak-stats.demolab.com/?user=xblbong&theme=tokyonight&background=1a1b27&ring=A855F7&fire=A855F7&currStreakNum=A855F7&stroke=A855F7" height="150" />
 </p>
 
 <div align="center">
@@ -73,12 +79,13 @@ I bridge the gap between <b>aesthetic design</b> and <b>scalable frontend archit
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xblbong&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <!-- Profile View Badge Ungu -->
+  <img src="https://komarev.com/ghpvc/?username=xblbong&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-<!-- ARCADE SECTION (UX: Footer yang interaktif) -->
+<!-- ARCADE SECTION -->
 ### 🕹️ Arcade Contributions
 
 <div align="center">
@@ -89,10 +96,12 @@ I bridge the gap between <b>aesthetic design</b> and <b>scalable frontend archit
   
   <br/><br/>
   
+  <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/xblbong/xblbong/snake-output/snake.svg" width="85%" alt="Snake animation" />
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/render?type=slice&color=0099ff&height=100&section=footer" width="100%" />
+<!-- Footer Banner Purple -->
+<img src="https://capsule-render.vercel.app/render?type=slice&color=A855F7&height=100&section=footer" width="100%" />
 
 </div>
