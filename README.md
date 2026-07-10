@@ -33,25 +33,24 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
 <!-- SKILLS SECTION (UX: Comprehensive & Categorized) -->
 ### 🛠️ Languages & Tools
 
-<table align="center" border="0">
+<table width="100%" border="0">
   <tr>
-    <td align="center"><b>Frontend & UI</b></td>
-    <td align="center"><b>Backend & Database</b></td>
-    <td align="center"><b>Mobile & Tools</b></td>
-  </tr>
-  <tr>
-    <td valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" /><br/>
-      <img src="https://skillicons.dev/icons?i=tanstack,antd,storybook" /><br/>
-      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+    <td width="33.3%" align="center" valign="top">
+      <h4>🎨 Frontend & UI</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js" /><br/>
+      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" /><br/>
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" height="22px" />
     </td>
-    <td valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,prisma,elysia" /><br/>
-      <img src="https://skillicons.dev/icons?i=aws,vercel" />
+    <td width="33.3%" align="center" valign="top">
+      <h4>⚙️ Backend & DB</h4>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,prisma" /><br/>
+      <img src="https://skillicons.dev/icons?i=elysia,aws,vercel" />
     </td>
-    <td valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=dart,flutter" /><br/>
-      <img src="https://skillicons.dev/icons?i=figma,git,vscode,postman" />
+    <td width="33.3%" align="center" valign="top">
+      <h4>📱 Mobile & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=dart,flutter,figma,git" /><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,postman,tanstack,antd" /><br/>
+      <img src="https://skillicons.dev/icons?i=storybook" />
     </td>
   </tr>
 </table>
@@ -98,7 +97,4 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
 </div>
 
 <br/>
-<!-- Footer Banner Purple -->
-<img src="https://capsule-render.vercel.app/render?type=slice&color=A855F7&height=100&section=footer" width="100%" />
-
 </div>
