@@ -32,6 +32,9 @@ I bridge the gap between aesthetic design and scalable frontend architecture.
 </div>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xblbong&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ### 🕹️ Arcade & Contribution
 <div align="center">
@@ -43,15 +46,8 @@ I bridge the gap between aesthetic design and scalable frontend architecture.
   </picture>
   
   <br/>
-  
-  <!-- Snake -->
-  <img src="https://raw.githubusercontent.com/xblbong/xblbong/snake-output/snake.svg" width="85%" alt="Snake animation" />
 </div>
 
 <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xblbong&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 
 </div>
