@@ -47,7 +47,4 @@ I bridge the gap between aesthetic design and scalable frontend architecture.
   
   <br/>
 </div>
-
-<br/>
-
 </div>
