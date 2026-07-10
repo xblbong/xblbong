@@ -63,17 +63,17 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
 
 <p align="center">
   <!-- Trophy dengan tema Tokyonight (Purple Tint) -->
-  <img src="https://raw.githubusercontent.com/xblbong/xblbong/trophy-output/trophy.svg?theme=tokyonight&column=7&margin-w=15&no-bg=true" width="100%" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/xblbong/xblbong/trophy-output/trophy.svg?theme=tokyonight&column=7&margin-w=15&no-bg=true" width="100%" alt="Trophies" style="color: #A855F7;" />
 </p>
 
 <p align="center">
   <!-- Streak Stats Custom Purple Theme -->
-  <img src="https://streak-stats.demolab.com/?user=xblbong&theme=tokyonight&background=1a1b27&ring=A855F7&fire=A855F7&currStreakNum=A855F7&stroke=A855F7" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=xblbong&theme=tokyonight&background=1a1b27&ring=A855F7&fire=A855F7&currStreakNum=A855F7&stroke=A855F7" height="150" style="color: #A855F7;" />
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/dX7AKEGu6mQAAAAi/tanjirou-demon-slayer.gif" height="130" />
-  <img src="https://media.tenor.com/jve_fkSYDscAAAAi/anime-nezuko.gif" height="130" />
+  <img src="https://media.tenor.com/dX7AKEGu6mQAAAAi/tanjirou-demon-slayer.gif" height="130" style="color: #A855F7;" />
+  <img src="https://media.tenor.com/jve_fkSYDscAAAAi/anime-nezuko.gif" height="130" style="color: #A855F7;" />
 </div>
 
 <br/>
@@ -95,9 +95,6 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
   </picture>
   
   <br/><br/>
-  
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/xblbong/xblbong/snake-output/snake.svg" width="85%" alt="Snake animation" />
 </div>
 
 <br/>
