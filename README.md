@@ -30,31 +30,7 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
 
 ---
 
-<!-- SKILLS SECTION (UX: Comprehensive & Categorized) -->
-### 🛠️ Languages & Tools
-
-<table width="100%" border="0">
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <h4>🎨 Frontend & UI</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,sass,js" /><br/>
-      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" /><br/>
-      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" height="22px" />
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <h4>⚙️ Backend & DB</h4>
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,prisma" /><br/>
-      <img src="https://skillicons.dev/icons?i=elysia,aws,vercel" />
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <h4>📱 Mobile & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=dart,flutter,figma,git" /><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,postman,tanstack,antd" /><br/>
-      <img src="https://skillicons.dev/icons?i=storybook" />
-    </td>
-  </tr>
-</table>
-
+<!-- SKILLS SECTION -->
 ### 🛠️ Languages & Tools
 
 <table  width="100%" align="center" border="0">
