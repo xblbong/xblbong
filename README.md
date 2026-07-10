@@ -57,7 +57,7 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
 
 ### 🛠️ Languages & Tools
 
-<table align="center" border="0">
+<table  width="100%" align="center" border="0">
   <tr width="33.3%">
     <td align="center"><b>Frontend & UI</b></td>
     <td align="center"><b>Backend & Database</b></td>
@@ -65,9 +65,9 @@ I bridge the gap between <span style="color: #A855F7;"><b>aesthetic design</b></
   </tr>
   <tr>
     <td width="33.3%" valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" /><br/>
-      <img src="https://skillicons.dev/icons?i=tanstack,antd,storybook" /><br/>
-      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js" /><br/>
+      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" /><br/>
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" height="22px" />
     </td>
     <td width="33.3%" valign="top" align="center">
       <img src="https://skillicons.dev/icons?i=php,laravel,mysql,prisma,elysia" /><br/>
