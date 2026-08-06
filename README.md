@@ -4,7 +4,7 @@
 <h1>Hi! I'm Abil 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Google+Student+Ambassador;Frontend+Web+Developer;UI/UX+Designer;AWS+AI+Academy+Awardee" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Google+Student+Ambassador;UI/UX+Designer;AWS+AI+Academy+Awardee" />
 </p>
 
 <p align="center">
