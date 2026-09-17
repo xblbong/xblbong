@@ -13,9 +13,9 @@
 
 <!-- SOCIAL LINKS (UX: Clean Purple Theme) -->
 <p align="center">
-  <a href="https://linkedin.com/in/sabilah-mudrikah" target="blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sabilah-mudrikah-41b21b301/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://abil-portofolio-six.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://instagram.com/sabilahmdrk" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/sblhh.m" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:sblhh.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
