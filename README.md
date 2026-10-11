@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER SECTION -->
-<h1>Hi! I'm Abil 👋</h1>
+<h1>Hi! I'm Bila 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Google+Student+Ambassador;UI/UX+Designer;AWS+AI+Academy+Awardee" />
